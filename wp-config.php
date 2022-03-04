@@ -42,7 +42,7 @@ foreach ($_SERVER as $key => $value) {
 define('DB_NAME', wordpress);
 
 /** MySQL database username */
-define('DB_USER', wordpress);
+define('DB_USER', wordpress@ct-wordpress);
 
 /** MySQL database password */
 define('DB_PASSWORD', Kishore123$);
