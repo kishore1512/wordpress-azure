@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress User Page
+ * WordPress User Page test
  *
  * Handles authentication, registering, resetting passwords, forgot password,
  * and other user handling.
